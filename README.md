@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Amteuzs and basically I'm an indie dev
 
 <!--
 **Amteuzs/Amteuzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
